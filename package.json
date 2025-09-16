@@ -32,12 +32,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/docx-template-engine.git"
+    "url": "https://github.com/grim-reapper/docx-template-engine.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/docx-template-engine/issues"
+    "url": "https://github.com/grim-reapper/docx-template-engine/issues"
   },
-  "homepage": "https://github.com/yourusername/docx-template-engine#readme",
+  "homepage": "https://github.com/grim-reapper/docx-template-engine#readme",
   "files": [
     "dist",
     "README.md",
