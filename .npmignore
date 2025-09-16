@@ -1,0 +1,12 @@
+src/
+test/
+testing/
+*.test.js
+*.test.ts
+jest.config.js
+tsconfig.json
+.git/
+.github/
+.vscode/
+*.md
+!README.md
